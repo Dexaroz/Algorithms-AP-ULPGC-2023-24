@@ -5,15 +5,23 @@ Welcome to the "Algorithms" repository for the Algorithms and Programming course
 This repository contains some exercises and exams for the Algorithms and Programming (AP) course. It is designed to help students understand fundamental concepts of algorithms and their applications in solving computational problems.
 
 # Contents
-1.- TSP. \n
-2.- BFS. \n
-3.- DFS. \n
-4.- BRUTE FORCE. \n
-5.- BACKTRACKING. \n
-6.- BRANCH AND BOUND. \n
-7.- DIVIDE AND CONQUER. \n
-8.- DYNAMIC PROGRAMMING. \n
-9.- MINIZINC. \n
+1.- TSP.
+
+2.- BFS.
+
+3.- DFS.
+
+4.- BRUTE FORCE.
+
+5.- BACKTRACKING.
+
+6.- BRANCH AND BOUND.
+
+7.- DIVIDE AND CONQUER.
+
+8.- DYNAMIC PROGRAMMING.
+
+9.- MINIZINC.
 
 # How to Use This Repository
 Clone the Repository: Use git clone to download the repository to your local machine.
