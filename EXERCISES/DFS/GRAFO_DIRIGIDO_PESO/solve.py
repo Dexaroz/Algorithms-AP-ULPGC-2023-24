@@ -14,8 +14,8 @@ def build_digraph_with_weights():
     # Paso 1: Crear grafo direcional con num_nodes
     graph = nx.DiGraph()
 
-    for i in range(1, num_nodes + 1):
-        graph.add_node(i)
+    for node in range(1, num_nodes + 1):
+        graph.add_node(node)
 
     # Paso 2: Añadir los vértices del grafo
     for i in range(0, num_edges):
