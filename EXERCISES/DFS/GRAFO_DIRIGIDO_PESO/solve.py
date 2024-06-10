@@ -23,6 +23,6 @@ def build_digraph_with_weights():
         v = int(line[0])
         u = int(line[1])
         w = int(line[2])
-        graph.add_edge(v, u, w)
+        graph.add_edge(v, u, weight = w)
 
     return graph
